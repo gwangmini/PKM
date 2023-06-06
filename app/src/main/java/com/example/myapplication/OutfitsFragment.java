@@ -30,7 +30,7 @@ import java.util.List;
 public class OutfitsFragment extends Fragment {
 
     private final static String SELECTED_OUTFITS_IDS_LIST = "example.myapplication.selectedOutfitsIdsList";
-    private final static String SELECTMODE = "example.myapplicationt.selectMode";
+    private final static String SELECTMODE = "example.myapplication.selectMode";
 
     private float x1,x2;
     static final int MIN_DISTANCE = 50;
